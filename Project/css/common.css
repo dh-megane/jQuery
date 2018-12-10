@@ -1,0 +1,34 @@
+/* Title部 */
+body {
+   font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+
+#header {
+    text-align: center;
+}
+
+#header span {
+    color: #555555;
+    font-size: 2.5em;
+    background-color: orange;
+    padding: 0.2em; 
+}
+
+.summary {
+    text-decoration: underline;
+    text-align: center;
+}
+
+.content {
+    text-align: center;
+}
+
+.btn-OK {
+    width: 120px;
+    height: 40px;
+}
+
+.btn-NG {
+    width: 120px;
+    height: 40px;
+}
